@@ -1,3 +1,3 @@
 node('maven-label') {
-   echo 'Hello World'
+   echo 'Hello World ther'
 }
